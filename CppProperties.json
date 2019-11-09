@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "name": "Visual Micro",
+      "intelliSenseMode": "windows-msvc-x86",
+      "includePath": [
+        "${projectRoot}..\\hhlab_esp8266",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\libraries\\ESP8266WiFi\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\libraries\\ESP8266WebServer\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\libraries\\ESP8266HTTPClient\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\libraries\\AsyncMqttClient\\src",
+        "${projectRoot}..\\..\\..\\Documents\\Arduino\\libraries\\ArduinoJson\\src",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\libraries\\espsoftwareserial",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\libraries\\ProtoThreadsForArduino",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\cores\\esp8266",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\cores\\esp8266\\libb64",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\cores\\esp8266\\spiffs",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\cores\\esp8266\\umm_malloc",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\variants\\nodemcu",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\tools\\sdk\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\tools\\sdk\\lwip\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com\\Arduino-esp8266\\tools\\sdk\\libc\\xtensa-lx106-elf\\include",
+        "${projectRoot}..\\..\\..\\..\\..\\Program Files\\arduino-1.8.4\\hardware\\esp8266com"
+      ],
+      "defines": [
+        "__ets__",
+        "ICACHE_FLASH",
+        "F_CPU=80000000L",
+        "LWIP_OPEN_SRC",
+        "ARDUINO=10804",
+        "ARDUINO_ESP8266_NODEMCU",
+        "ESP8266",
+        "__cplusplus=201103L",
+        "_VMICRO_INTELLISENSE"
+      ]
+    }
+  ]
+}
